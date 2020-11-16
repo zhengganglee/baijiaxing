@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+}
+
+group 'org.justlee.bjx'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenLocal()
+
+    maven { url 'http://maven.aliyun.com/nexus/content/repositories/central' }
+    maven { url "https://dl.bintray.com/chocotan/maven" }
+    maven { url "http://repo.maven.apache.org/maven2" }
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    compile 'commons-io:commons-io:2.6'
+    compile 'com.alibaba:easyexcel:2.2.3'
+
+    // 汉语转拼音
+    compile 'com.belerweb:pinyin4j:2.5.0'
+}

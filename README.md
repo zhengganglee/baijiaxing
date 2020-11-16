@@ -2,502 +2,502 @@
 百家姓正确的拼音、姓名首字母
 |  姓氏  |  首字母  |  正确拼音  |  全部拼音  |
 |  ----  |  ----  |  ----  |  ----  |
-|  赵  |  z  |  zhao  |
-|  钱  |  q  |  qian  |
-|  孙  |  s  |  sun  |
-|  李  |  l  |  li  |
-|  周  |  z  |  zhou  |
-|  吴  |  w  |  wu  |
-|  郑  |  z  |  zheng  |
-|  王  |  w  |  wang  |
-|  冯  |  f  |  feng  |
-|  陈  |  c  |  chen  |
-|  褚  |  c  |  chu  |
-|  卫  |  w  |  wei  |
-|  蒋  |  j  |  jiang  |
-|  沈  |  s  |  shen  |
-|  韩  |  h  |  han  |
-|  杨  |  y  |  yang  |
-|  朱  |  z  |  zhu  |
-|  秦  |  q  |  qin  |
-|  尤  |  y  |  you  |
-|  许  |  x  |  xu  |
-|  何  |  h  |  he  |
-|  吕  |  l  |  lv  |
-|  施  |  s  |  shi  |
-|  张  |  z  |  zhang  |
-|  孔  |  k  |  kong  |
-|  曹  |  c  |  cao  |
-|  严  |  y  |  yan  |
-|  华  |  h  |  hua  |
-|  金  |  j  |  jin  |
-|  魏  |  w  |  wei  |
-|  陶  |  t  |  tao  |
-|  姜  |  j  |  jiang  |
-|  戚  |  q  |  qi  |
-|  谢  |  x  |  xie  |
-|  邹  |  z  |  zou  |
-|  喻  |  y  |  yu  |
-|  柏  |  b  |  bo  |
-|  水  |  s  |  shui  |
-|  窦  |  d  |  dou  |
-|  章  |  z  |  zhang  |
-|  云  |  y  |  yun  |
-|  苏  |  s  |  su  |
-|  潘  |  p  |  pan  |
-|  葛  |  g  |  ge  |
-|  奚  |  x  |  xi  |
-|  范  |  f  |  fan  |
-|  彭  |  p  |  peng  |
-|  郎  |  l  |  lang  |
-|  鲁  |  l  |  lu  |
-|  韦  |  w  |  wei  |
-|  昌  |  c  |  chang  |
-|  马  |  m  |  ma  |
-|  苗  |  m  |  miao  |
-|  凤  |  f  |  feng  |
-|  花  |  h  |  hua  |
-|  方  |  f  |  fang  |
-|  俞  |  y  |  yu  |
-|  任  |  r  |  ren  |
-|  袁  |  y  |  yuan  |
-|  柳  |  l  |  liu  |
-|  酆  |  f  |  feng  |
-|  鲍  |  b  |  bao  |
-|  史  |  s  |  shi  |
-|  唐  |  t  |  tang  |
-|  费  |  f  |  fei  |
-|  廉  |  l  |  lian  |
-|  岑  |  c  |  cen  |
-|  薛  |  x  |  xue  |
-|  雷  |  l  |  lei  |
-|  贺  |  h  |  he  |
-|  倪  |  n  |  ni  |
-|  汤  |  t  |  tang  |
-|  滕  |  t  |  teng  |
-|  殷  |  y  |  yin  |
-|  罗  |  l  |  luo  |
-|  毕  |  b  |  bi  |
-|  郝  |  h  |  hao  |
-|  邬  |  w  |  wu  |
-|  安  |  a  |  an  |
-|  常  |  c  |  chang  |
-|  乐  |  l  |  le  |
-|  于  |  y  |  yu  |
-|  时  |  s  |  shi  |
-|  傅  |  f  |  fu  |
-|  皮  |  p  |  pi  |
-|  卞  |  b  |  bian  |
-|  齐  |  q  |  qi  |
-|  康  |  k  |  kang  |
-|  伍  |  w  |  wu  |
-|  余  |  y  |  yu  |
-|  元  |  y  |  yuan  |
-|  卜  |  b  |  bu  |
-|  顾  |  g  |  gu  |
-|  孟  |  m  |  meng  |
-|  平  |  p  |  ping  |
-|  黄  |  h  |  huang  |
-|  和  |  h  |  he  |
-|  穆  |  m  |  mu  |
-|  萧  |  x  |  xiao  |
-|  尹  |  y  |  yin  |
-|  姚  |  y  |  yao  |
-|  邵  |  s  |  shao  |
-|  湛  |  z  |  zhan  |
-|  汪  |  w  |  wang  |
-|  祁  |  q  |  qi  |
-|  毛  |  m  |  mao  |
-|  禹  |  y  |  yu  |
-|  狄  |  d  |  di  |
-|  米  |  m  |  mi  |
-|  贝  |  b  |  bei  |
-|  明  |  m  |  ming  |
-|  臧  |  z  |  zang  |
-|  计  |  j  |  ji  |
-|  伏  |  f  |  fu  |
-|  成  |  c  |  cheng  |
-|  戴  |  d  |  dai  |
-|  谈  |  t  |  tan  |
-|  宋  |  s  |  song  |
-|  茅  |  m  |  mao  |
-|  庞  |  p  |  pang  |
-|  熊  |  x  |  xiong  |
-|  纪  |  j  |  ji  |
-|  舒  |  s  |  shu  |
-|  屈  |  q  |  qu  |
-|  项  |  x  |  xiang  |
-|  祝  |  z  |  zhu  |
-|  董  |  d  |  dong  |
-|  梁  |  l  |  liang  |
-|  杜  |  d  |  du  |
-|  阮  |  r  |  ruan  |
-|  蓝  |  l  |  lan  |
-|  闵  |  m  |  min  |
-|  席  |  x  |  xi  |
-|  季  |  j  |  ji  |
-|  麻  |  m  |  ma  |
-|  强  |  j  |  jiang  |
-|  贾  |  j  |  jia  |
-|  路  |  l  |  lu  |
-|  娄  |  l  |  lou  |
-|  危  |  w  |  wei  |
-|  江  |  j  |  jiang  |
-|  童  |  t  |  tong  |
-|  颜  |  y  |  yan  |
-|  郭  |  g  |  guo  |
-|  梅  |  m  |  mei  |
-|  盛  |  s  |  sheng  |
-|  林  |  l  |  lin  |
-|  刁  |  d  |  diao  |
-|  锺  |  z  |  zhong  |
-|  徐  |  x  |  xu  |
-|  邱  |  q  |  qiu  |
-|  骆  |  l  |  luo  |
-|  高  |  g  |  gao  |
-|  夏  |  x  |  xia  |
-|  蔡  |  c  |  cai  |
-|  田  |  t  |  tian  |
-|  樊  |  f  |  fan  |
-|  胡  |  h  |  hu  |
-|  凌  |  l  |  ling  |
-|  霍  |  h  |  huo  |
-|  虞  |  y  |  yu  |
-|  万  |  w  |  wan  |
-|  支  |  z  |  zhi  |
-|  柯  |  k  |  ke  |
-|  昝  |  z  |  zan  |
-|  管  |  g  |  guan  |
-|  卢  |  l  |  lu  |
-|  莫  |  m  |  mo  |
-|  经  |  j  |  jing  |
-|  房  |  f  |  fang  |
-|  裘  |  q  |  qiu  |
-|  缪  |  m  |  miao  |
-|  干  |  g  |  gan  |
-|  解  |  x  |  xie  |
-|  应  |  y  |  ying  |
-|  宗  |  z  |  zong  |
-|  丁  |  d  |  ding  |
-|  宣  |  x  |  xuan  |
-|  贲  |  b  |  bi  |
-|  邓  |  d  |  deng  |
-|  郁  |  y  |  yu  |
-|  单  |  s  |  shan  |
-|  杭  |  h  |  hang  |
-|  洪  |  h  |  hong  |
-|  包  |  b  |  bao  |
-|  诸  |  z  |  zhu  |
-|  左  |  z  |  zuo  |
-|  石  |  s  |  shi  |
-|  崔  |  c  |  cui  |
-|  吉  |  j  |  ji  |
-|  钮  |  n  |  niu  |
-|  龚  |  g  |  gong  |
-|  程  |  c  |  cheng  |
-|  嵇  |  j  |  ji  |
-|  邢  |  x  |  xing  |
-|  滑  |  h  |  hua  |
-|  裴  |  p  |  pei  |
-|  陆  |  l  |  lu  |
-|  荣  |  r  |  rong  |
-|  翁  |  w  |  weng  |
-|  荀  |  x  |  xun  |
-|  羊  |  y  |  yang  |
-|  於  |  w  |  wu  |
-|  惠  |  h  |  hui  |
-|  甄  |  z  |  zhen  |
-|  麹  |  q  |  qu  |
-|  家  |  j  |  jia  |
-|  封  |  f  |  feng  |
-|  芮  |  r  |  rui  |
-|  羿  |  y  |  yi  |
-|  储  |  c  |  chu  |
-|  靳  |  j  |  jin  |
-|  汲  |  j  |  ji  |
-|  邴  |  b  |  bing  |
-|  糜  |  m  |  mi  |
-|  松  |  s  |  song  |
-|  井  |  j  |  jing  |
-|  段  |  d  |  duan  |
-|  富  |  f  |  fu  |
-|  巫  |  w  |  wu  |
-|  乌  |  w  |  wu  |
-|  焦  |  j  |  jiao  |
-|  巴  |  b  |  ba  |
-|  弓  |  g  |  gong  |
-|  牧  |  m  |  mu  |
-|  隗  |  w  |  wei  |
-|  山  |  s  |  shan  |
-|  谷  |  g  |  gu  |
-|  车  |  c  |  che  |
-|  侯  |  h  |  hou  |
-|  宓  |  m  |  mi  |
-|  蓬  |  p  |  peng  |
-|  全  |  q  |  quan  |
-|  郗  |  x  |  xi  |
-|  班  |  b  |  ban  |
-|  仰  |  y  |  yang  |
-|  秋  |  q  |  qiu  |
-|  仲  |  z  |  zhong  |
-|  伊  |  y  |  yi  |
-|  宫  |  g  |  gong  |
-|  甯  |  n  |  ning  |
-|  仇  |  q  |  qiu  |
-|  栾  |  l  |  luan  |
-|  暴  |  b  |  bao  |
-|  甘  |  g  |  gan  |
-|  钭  |  t  |  tou  |
-|  厉  |  l  |  li  |
-|  戎  |  r  |  rong  |
-|  祖  |  z  |  zu  |
-|  武  |  w  |  wu  |
-|  符  |  f  |  fu  |
-|  刘  |  l  |  liu  |
-|  景  |  j  |  jing  |
-|  詹  |  z  |  zhan  |
-|  束  |  s  |  shu  |
-|  龙  |  l  |  long  |
-|  叶  |  y  |  ye  |
-|  幸  |  x  |  xing  |
-|  司  |  s  |  si  |
-|  韶  |  s  |  shao  |
-|  郜  |  g  |  gao  |
-|  黎  |  l  |  li  |
-|  蓟  |  j  |  ji  |
-|  薄  |  b  |  bo  |
-|  印  |  y  |  yin  |
-|  宿  |  s  |  su  |
-|  白  |  b  |  bai  |
-|  怀  |  h  |  huai  |
-|  蒲  |  p  |  pu  |
-|  邰  |  t  |  tai  |
-|  从  |  c  |  cong  |
-|  鄂  |  e  |  e  |
-|  索  |  s  |  suo  |
-|  咸  |  x  |  xian  |
-|  籍  |  j  |  ji  |
-|  赖  |  l  |  lai  |
-|  卓  |  z  |  zhuo  |
-|  蔺  |  l  |  lin  |
-|  屠  |  t  |  tu  |
-|  蒙  |  m  |  meng  |
-|  池  |  c  |  chi  |
-|  乔  |  q  |  qiao  |
-|  阴  |  y  |  yin  |
-|  鬱  |  y  |  yu  |
-|  胥  |  x  |  xu  |
-|  能  |  n  |  neng  |
-|  苍  |  c  |  cang  |
-|  双  |  s  |  shuang  |
-|  闻  |  w  |  wen  |
-|  莘  |  s  |  shen  |
-|  党  |  d  |  dang  |
-|  翟  |  z  |  zhai  |
-|  谭  |  t  |  tan  |
-|  贡  |  g  |  gong  |
-|  劳  |  l  |  lao  |
-|  逄  |  p  |  pang  |
-|  姬  |  j  |  ji  |
-|  申  |  s  |  shen  |
-|  扶  |  f  |  fu  |
-|  堵  |  d  |  du  |
-|  冉  |  r  |  ran  |
-|  宰  |  z  |  zai  |
-|  郦  |  l  |  li  |
-|  雍  |  y  |  yong  |
-|  郤  |  x  |  xi  |
-|  璩  |  q  |  qu  |
-|  桑  |  s  |  sang  |
-|  桂  |  g  |  gui  |
-|  濮  |  p  |  pu  |
-|  牛  |  n  |  niu  |
-|  寿  |  s  |  shou  |
-|  通  |  t  |  tong  |
-|  边  |  b  |  bian  |
-|  扈  |  h  |  hu  |
-|  燕  |  y  |  yan  |
-|  冀  |  j  |  ji  |
-|  郏  |  j  |  jia  |
-|  浦  |  p  |  pu  |
-|  尚  |  s  |  shang  |
-|  农  |  n  |  nong  |
-|  温  |  w  |  wen  |
-|  别  |  b  |  bie  |
-|  庄  |  z  |  zhuang  |
-|  晏  |  y  |  yan  |
-|  柴  |  c  |  chai  |
-|  瞿  |  q  |  qu  |
-|  阎  |  y  |  yan  |
-|  充  |  c  |  chong  |
-|  慕  |  m  |  mu  |
-|  连  |  l  |  lian  |
-|  茹  |  r  |  ru  |
-|  习  |  x  |  xi  |
-|  宦  |  h  |  huan  |
-|  艾  |  a  |  ai  |
-|  鱼  |  y  |  yu  |
-|  容  |  r  |  rong  |
-|  向  |  x  |  xiang  |
-|  古  |  g  |  gu  |
-|  易  |  y  |  yi  |
-|  慎  |  s  |  shen  |
-|  戈  |  g  |  ge  |
-|  廖  |  l  |  liao  |
-|  庾  |  y  |  yu  |
-|  终  |  z  |  zhong  |
-|  暨  |  j  |  ji  |
-|  居  |  j  |  ju  |
-|  衡  |  h  |  heng  |
-|  步  |  b  |  bu  |
-|  都  |  d  |  dou  |
-|  耿  |  g  |  geng  |
-|  满  |  m  |  man  |
-|  弘  |  h  |  hong  |
-|  匡  |  k  |  kuang  |
-|  国  |  g  |  guo  |
-|  文  |  w  |  wen  |
-|  寇  |  k  |  kou  |
-|  广  |  g  |  guang  |
-|  禄  |  l  |  lu  |
-|  阙  |  q  |  que  |
-|  东  |  d  |  dong  |
-|  欧  |  o  |  ou  |
-|  殳  |  s  |  shu  |
-|  沃  |  w  |  wo  |
-|  利  |  l  |  li  |
-|  蔚  |  y  |  yu  |
-|  越  |  y  |  yue  |
-|  夔  |  k  |  kui  |
-|  隆  |  l  |  long  |
-|  师  |  s  |  shi  |
-|  巩  |  g  |  gong  |
-|  厍  |  s  |  she  |
-|  聂  |  n  |  nie  |
-|  晁  |  c  |  chao  |
-|  勾  |  g  |  gou  |
-|  敖  |  a  |  ao  |
-|  融  |  r  |  rong  |
-|  冷  |  l  |  leng  |
-|  訾  |  z  |  zi  |
-|  辛  |  x  |  xin  |
-|  阚  |  k  |  kan  |
-|  那  |  n  |  na  |
-|  简  |  j  |  jian  |
-|  饶  |  r  |  rao  |
-|  空  |  k  |  kong  |
-|  曾  |  z  |  zeng  |
-|  毋  |  w  |  wu  |
-|  沙  |  s  |  sha  |
-|  乜  |  n  |  nie  |
-|  养  |  y  |  yang  |
-|  鞠  |  j  |  ju  |
-|  须  |  x  |  xu  |
-|  丰  |  f  |  feng  |
-|  巢  |  c  |  chao  |
-|  关  |  g  |  guan  |
-|  蒯  |  k  |  kuai  |
-|  相  |  x  |  xiang  |
-|  查  |  z  |  zha  |
-|  后  |  h  |  hou  |
-|  荆  |  j  |  jing  |
-|  红  |  h  |  hong  |
-|  游  |  y  |  you  |
-|  竺  |  z  |  zhu  |
-|  权  |  q  |  quan  |
-|  逯  |  l  |  lu  |
-|  盖  |  g  |  gai  |
-|  益  |  y  |  yi  |
-|  桓  |  h  |  huan  |
-|  公  |  g  |  gong  |
-|  俟  |  q  |  qi  |
-|  上  |  s  |  shang  |
-|  官  |  g  |  guan  |
-|  阳  |  y  |  yang  |
-|  人  |  r  |  ren  |
-|  赫  |  h  |  he  |
-|  皇  |  h  |  huang  |
-|  甫  |  f  |  fu  |
-|  尉  |  w  |  wei  |
-|  迟  |  c  |  chi  |
-|  澹  |  d  |  dan  |
-|  台  |  t  |  tai  |
-|  冶  |  y  |  ye  |
-|  政  |  z  |  zheng  |
-|  淳  |  c  |  chun  |
-|  太  |  t  |  tai  |
-|  叔  |  s  |  shu  |
-|  轩  |  x  |  xuan  |
-|  辕  |  y  |  yuan  |
-|  令  |  l  |  ling  |
-|  狐  |  h  |  hu  |
-|  离  |  l  |  li  |
-|  宇  |  y  |  yu  |
-|  长  |  z  |  zhang  |
-|  鲜  |  x  |  xian  |
-|  闾  |  l  |  lv  |
-|  丘  |  q  |  qiu  |
-|  徒  |  t  |  tu  |
-|  亓  |  q  |  qi  |
-|  仉  |  z  |  zhang  |
-|  督  |  d  |  du  |
-|  子  |  z  |  zi  |
-|  颛  |  z  |  zhuan  |
-|  端  |  d  |  duan  |
-|  木  |  m  |  mu  |
-|  西  |  x  |  xi  |
-|  漆  |  q  |  qi  |
-|  雕  |  d  |  diao  |
-|  正  |  z  |  zheng  |
-|  壤  |  r  |  rang  |
-|  驷  |  s  |  si  |
-|  良  |  l  |  liang  |
-|  拓  |  t  |  tuo  |
-|  跋  |  b  |  ba  |
-|  夹  |  j  |  jia  |
-|  父  |  f  |  fu  |
-|  穀  |  g  |  gu  |
-|  晋  |  j  |  jin  |
-|  楚  |  c  |  chu  |
-|  闫  |  y  |  yan  |
-|  法  |  f  |  fa  |
-|  汝  |  r  |  ru  |
-|  鄢  |  y  |  yan  |
-|  涂  |  t  |  tu  |
-|  钦  |  q  |  qin  |
-|  百  |  b  |  bai  |
-|  里  |  l  |  li  |
-|  南  |  n  |  nan  |
-|  门  |  m  |  men  |
-|  呼  |  h  |  hu  |
-|  延  |  y  |  yan  |
-|  归  |  g  |  gui  |
-|  海  |  h  |  hai  |
-|  舌  |  s  |  she  |
-|  微  |  w  |  wei  |
-|  生  |  s  |  sheng  |
-|  岳  |  y  |  yue  |
-|  帅  |  s  |  shuai  |
-|  缑  |  g  |  gou  |
-|  亢  |  k  |  kang  |
-|  况  |  k  |  kuang  |
-|  後  |  h  |  hou  |
-|  有  |  y  |  you  |
-|  琴  |  q  |  qin  |
-|  商  |  s  |  shang  |
-|  牟  |  m  |  mou  |
-|  佘  |  s  |  she  |
-|  佴  |  n  |  nai  |
-|  伯  |  b  |  bo  |
-|  赏  |  s  |  shang  |
-|  墨  |  m  |  mo  |
-|  哈  |  h  |  ha  |
-|  谯  |  q  |  qiao  |
-|  笪  |  d  |  da  |
-|  年  |  n  |  nian  |
-|  爱  |  a  |  ai  |
-|  佟  |  t  |  tong  |
-|  第  |  d  |  di  |
-|  五  |  w  |  wu  |
-|  言  |  y  |  yan  |
-|  福  |  f  |  fu  |
+|  赵  |  z  |  zhao  |  zhào  |
+|  钱  |  q  |  qian  |  qián  |
+|  孙  |  s  |  sun  |  sūn  |
+|  李  |  l  |  li  |  lĭ  |
+|  周  |  z  |  zhou  |  zhōu  |
+|  吴  |  w  |  wu  |  wú  |
+|  郑  |  z  |  zheng  |  zhèng  |
+|  王  |  w  |  wang  |  wáng,wàng  |
+|  冯  |  f  |  feng  |  féng,píng  |
+|  陈  |  c  |  chen  |  chén  |
+|  褚  |  c  |  chu  |  chŭ,zhŭ  |
+|  卫  |  w  |  wei  |  wèi  |
+|  蒋  |  j  |  jiang  |  jiăng  |
+|  沈  |  s  |  shen  |  shĕn,chén  |
+|  韩  |  h  |  han  |  hán  |
+|  杨  |  y  |  yang  |  yáng  |
+|  朱  |  z  |  zhu  |  zhū  |
+|  秦  |  q  |  qin  |  qín  |
+|  尤  |  y  |  you  |  yóu  |
+|  许  |  x  |  xu  |  xŭ  |
+|  何  |  h  |  he  |  hé,hè  |
+|  吕  |  l  |  lv  |  lǚ  |
+|  施  |  s  |  shi  |  shī  |
+|  张  |  z  |  zhang  |  zhāng  |
+|  孔  |  k  |  kong  |  kŏng  |
+|  曹  |  c  |  cao  |  cáo  |
+|  严  |  y  |  yan  |  yán  |
+|  华  |  h  |  hua  |  huá,huà,huā  |
+|  金  |  j  |  jin  |  jīn  |
+|  魏  |  w  |  wei  |  wèi  |
+|  陶  |  t  |  tao  |  táo,yáo  |
+|  姜  |  j  |  jiang  |  jiāng  |
+|  戚  |  q  |  qi  |  qī  |
+|  谢  |  x  |  xie  |  xiè  |
+|  邹  |  z  |  zou  |  zōu  |
+|  喻  |  y  |  yu  |  yù  |
+|  柏  |  b  |  bo  |  bó,băi,bò  |
+|  水  |  s  |  shui  |  shuĭ  |
+|  窦  |  d  |  dou  |  dòu  |
+|  章  |  z  |  zhang  |  zhāng  |
+|  云  |  y  |  yun  |  yún  |
+|  苏  |  s  |  su  |  sū  |
+|  潘  |  p  |  pan  |  pān  |
+|  葛  |  g  |  ge  |  gĕ,gé  |
+|  奚  |  x  |  xi  |  xī  |
+|  范  |  f  |  fan  |  fàn  |
+|  彭  |  p  |  peng  |  péng  |
+|  郎  |  l  |  lang  |  láng,làng  |
+|  鲁  |  l  |  lu  |  lŭ  |
+|  韦  |  w  |  wei  |  wéi  |
+|  昌  |  c  |  chang  |  chāng  |
+|  马  |  m  |  ma  |  mă  |
+|  苗  |  m  |  miao  |  miáo  |
+|  凤  |  f  |  feng  |  fèng  |
+|  花  |  h  |  hua  |  huā  |
+|  方  |  f  |  fang  |  fāng  |
+|  俞  |  y  |  yu  |  yú,shù  |
+|  任  |  r  |  ren  |  rèn,rén  |
+|  袁  |  y  |  yuan  |  yuán  |
+|  柳  |  l  |  liu  |  liŭ  |
+|  酆  |  f  |  feng  |  fēng  |
+|  鲍  |  b  |  bao  |  bào  |
+|  史  |  s  |  shi  |  shĭ  |
+|  唐  |  t  |  tang  |  táng  |
+|  费  |  f  |  fei  |  fèi  |
+|  廉  |  l  |  lian  |  lián  |
+|  岑  |  c  |  cen  |  cén  |
+|  薛  |  x  |  xue  |  xuē  |
+|  雷  |  l  |  lei  |  léi  |
+|  贺  |  h  |  he  |  hè  |
+|  倪  |  n  |  ni  |  ní  |
+|  汤  |  t  |  tang  |  tāng,shāng  |
+|  滕  |  t  |  teng  |  téng  |
+|  殷  |  y  |  yin  |  yīn,yān,yĭn  |
+|  罗  |  l  |  luo  |  luó,luō,luo  |
+|  毕  |  b  |  bi  |  bì  |
+|  郝  |  h  |  hao  |  hăo  |
+|  邬  |  w  |  wu  |  wū  |
+|  安  |  a  |  an  |  ān  |
+|  常  |  c  |  chang  |  cháng  |
+|  乐  |  l  |  le  |  lè,yuè  |
+|  于  |  y  |  yu  |  yú  |
+|  时  |  s  |  shi  |  shí  |
+|  傅  |  f  |  fu  |  fù  |
+|  皮  |  p  |  pi  |  pí  |
+|  卞  |  b  |  bian  |  biàn  |
+|  齐  |  q  |  qi  |  qí,jì,qì  |
+|  康  |  k  |  kang  |  kāng  |
+|  伍  |  w  |  wu  |  wŭ  |
+|  余  |  y  |  yu  |  yú,tú  |
+|  元  |  y  |  yuan  |  yuán  |
+|  卜  |  b  |  bu  |  bŭ,bo  |
+|  顾  |  g  |  gu  |  gù  |
+|  孟  |  m  |  meng  |  mèng  |
+|  平  |  p  |  ping  |  píng  |
+|  黄  |  h  |  huang  |  huáng  |
+|  和  |  h  |  he  |  hé,hè,huó,huò,huo,hāi,he,hú  |
+|  穆  |  m  |  mu  |  mù  |
+|  萧  |  x  |  xiao  |  xiāo  |
+|  尹  |  y  |  yin  |  yĭn  |
+|  姚  |  y  |  yao  |  yáo  |
+|  邵  |  s  |  shao  |  shào  |
+|  湛  |  z  |  zhan  |  zhàn  |
+|  汪  |  w  |  wang  |  wāng  |
+|  祁  |  q  |  qi  |  qí  |
+|  毛  |  m  |  mao  |  máo  |
+|  禹  |  y  |  yu  |  yŭ  |
+|  狄  |  d  |  di  |  dí  |
+|  米  |  m  |  mi  |  mĭ  |
+|  贝  |  b  |  bei  |  bèi  |
+|  明  |  m  |  ming  |  míng  |
+|  臧  |  z  |  zang  |  zāng  |
+|  计  |  j  |  ji  |  jì  |
+|  伏  |  f  |  fu  |  fú  |
+|  成  |  c  |  cheng  |  chéng  |
+|  戴  |  d  |  dai  |  dài  |
+|  谈  |  t  |  tan  |  tán  |
+|  宋  |  s  |  song  |  sòng  |
+|  茅  |  m  |  mao  |  máo  |
+|  庞  |  p  |  pang  |  páng  |
+|  熊  |  x  |  xiong  |  xióng  |
+|  纪  |  j  |  ji  |  jì,jĭ  |
+|  舒  |  s  |  shu  |  shū  |
+|  屈  |  q  |  qu  |  qū  |
+|  项  |  x  |  xiang  |  xiàng  |
+|  祝  |  z  |  zhu  |  zhù  |
+|  董  |  d  |  dong  |  dŏng  |
+|  梁  |  l  |  liang  |  liáng  |
+|  杜  |  d  |  du  |  dù  |
+|  阮  |  r  |  ruan  |  ruăn  |
+|  蓝  |  l  |  lan  |  lán,lan,la  |
+|  闵  |  m  |  min  |  mĭn  |
+|  席  |  x  |  xi  |  xí  |
+|  季  |  j  |  ji  |  jì  |
+|  麻  |  m  |  ma  |  má,mā  |
+|  强  |  j  |  jiang  |  qiáng,qiăng,jiàng  |
+|  贾  |  j  |  jia  |  jiă,gŭ  |
+|  路  |  l  |  lu  |  lù  |
+|  娄  |  l  |  lou  |  lóu  |
+|  危  |  w  |  wei  |  wēi,wéi  |
+|  江  |  j  |  jiang  |  jiāng  |
+|  童  |  t  |  tong  |  tóng  |
+|  颜  |  y  |  yan  |  yán  |
+|  郭  |  g  |  guo  |  guō  |
+|  梅  |  m  |  mei  |  méi  |
+|  盛  |  s  |  sheng  |  shèng,chéng  |
+|  林  |  l  |  lin  |  lín  |
+|  刁  |  d  |  diao  |  diāo  |
+|  锺  |  z  |  zhong  |  zhōng  |
+|  徐  |  x  |  xu  |  xú  |
+|  邱  |  q  |  qiu  |  qiū  |
+|  骆  |  l  |  luo  |  luò  |
+|  高  |  g  |  gao  |  gāo  |
+|  夏  |  x  |  xia  |  xià,jiă  |
+|  蔡  |  c  |  cai  |  cài  |
+|  田  |  t  |  tian  |  tián  |
+|  樊  |  f  |  fan  |  fán  |
+|  胡  |  h  |  hu  |  hú  |
+|  凌  |  l  |  ling  |  líng  |
+|  霍  |  h  |  huo  |  huò  |
+|  虞  |  y  |  yu  |  yú  |
+|  万  |  w  |  wan  |  wàn,mò  |
+|  支  |  z  |  zhi  |  zhī  |
+|  柯  |  k  |  ke  |  kē  |
+|  昝  |  z  |  zan  |  zăn  |
+|  管  |  g  |  guan  |  guăn  |
+|  卢  |  l  |  lu  |  lú  |
+|  莫  |  m  |  mo  |  mò  |
+|  经  |  j  |  jing  |  jīng,jìng  |
+|  房  |  f  |  fang  |  fáng  |
+|  裘  |  q  |  qiu  |  qiú  |
+|  缪  |  m  |  miao  |  móu,miào,miù  |
+|  干  |  g  |  gan  |  gān,gàn  |
+|  解  |  x  |  xie  |  jiĕ,jiè,xiè  |
+|  应  |  y  |  ying  |  yīng,yìng  |
+|  宗  |  z  |  zong  |  zōng  |
+|  丁  |  d  |  ding  |  dīng,zhēng  |
+|  宣  |  x  |  xuan  |  xuān  |
+|  贲  |  b  |  bi  |  bì,bēn  |
+|  邓  |  d  |  deng  |  dèng  |
+|  郁  |  y  |  yu  |  yù  |
+|  单  |  s  |  shan  |  dān,chán,shàn  |
+|  杭  |  h  |  hang  |  háng  |
+|  洪  |  h  |  hong  |  hóng  |
+|  包  |  b  |  bao  |  bāo  |
+|  诸  |  z  |  zhu  |  zhū  |
+|  左  |  z  |  zuo  |  zuŏ  |
+|  石  |  s  |  shi  |  shí,dàn  |
+|  崔  |  c  |  cui  |  cuī  |
+|  吉  |  j  |  ji  |  jí  |
+|  钮  |  n  |  niu  |  niŭ  |
+|  龚  |  g  |  gong  |  gōng  |
+|  程  |  c  |  cheng  |  chéng  |
+|  嵇  |  j  |  ji  |  jī  |
+|  邢  |  x  |  xing  |  xíng  |
+|  滑  |  h  |  hua  |  huá,gŭ  |
+|  裴  |  p  |  pei  |  péi  |
+|  陆  |  l  |  lu  |  lù,liù  |
+|  荣  |  r  |  rong  |  róng  |
+|  翁  |  w  |  weng  |  wēng  |
+|  荀  |  x  |  xun  |  xún  |
+|  羊  |  y  |  yang  |  yáng  |
+|  於  |  w  |  wu  |  wū,yū,yú  |
+|  惠  |  h  |  hui  |  huì  |
+|  甄  |  z  |  zhen  |  zhēn  |
+|  麹  |  q  |  qu  |  qū  |
+|  家  |  j  |  jia  |  jiā,gū,jie,jia  |
+|  封  |  f  |  feng  |  fēng  |
+|  芮  |  r  |  rui  |  ruì  |
+|  羿  |  y  |  yi  |  yì  |
+|  储  |  c  |  chu  |  chŭ  |
+|  靳  |  j  |  jin  |  jìn  |
+|  汲  |  j  |  ji  |  jí  |
+|  邴  |  b  |  bing  |  bĭng  |
+|  糜  |  m  |  mi  |  mí,méi  |
+|  松  |  s  |  song  |  sōng  |
+|  井  |  j  |  jing  |  jĭng  |
+|  段  |  d  |  duan  |  duàn  |
+|  富  |  f  |  fu  |  fù  |
+|  巫  |  w  |  wu  |  wū,wú  |
+|  乌  |  w  |  wu  |  wū,wù  |
+|  焦  |  j  |  jiao  |  jiāo  |
+|  巴  |  b  |  ba  |  bā  |
+|  弓  |  g  |  gong  |  gōng  |
+|  牧  |  m  |  mu  |  mù  |
+|  隗  |  w  |  wei  |  wĕi,kuí  |
+|  山  |  s  |  shan  |  shān  |
+|  谷  |  g  |  gu  |  gŭ,yù  |
+|  车  |  c  |  che  |  chē,jū  |
+|  侯  |  h  |  hou  |  hòu,hóu  |
+|  宓  |  m  |  mi  |  mì  |
+|  蓬  |  p  |  peng  |  péng  |
+|  全  |  q  |  quan  |  quán  |
+|  郗  |  x  |  xi  |  xī  |
+|  班  |  b  |  ban  |  bān  |
+|  仰  |  y  |  yang  |  yăng  |
+|  秋  |  q  |  qiu  |  qiū  |
+|  仲  |  z  |  zhong  |  zhòng  |
+|  伊  |  y  |  yi  |  yī  |
+|  宫  |  g  |  gong  |  gōng  |
+|  甯  |  n  |  ning  |  níng  |
+|  仇  |  q  |  qiu  |  chóu,qiú  |
+|  栾  |  l  |  luan  |  luán  |
+|  暴  |  b  |  bao  |  bào,pù  |
+|  甘  |  g  |  gan  |  gān  |
+|  钭  |  t  |  tou  |  tŏu  |
+|  厉  |  l  |  li  |  lì  |
+|  戎  |  r  |  rong  |  róng  |
+|  祖  |  z  |  zu  |  zŭ  |
+|  武  |  w  |  wu  |  wŭ  |
+|  符  |  f  |  fu  |  fú  |
+|  刘  |  l  |  liu  |  liú  |
+|  景  |  j  |  jing  |  jĭng,yĭng  |
+|  詹  |  z  |  zhan  |  zhān  |
+|  束  |  s  |  shu  |  shù  |
+|  龙  |  l  |  long  |  lóng  |
+|  叶  |  y  |  ye  |  yè,xié  |
+|  幸  |  x  |  xing  |  xìng  |
+|  司  |  s  |  si  |  sī  |
+|  韶  |  s  |  shao  |  sháo  |
+|  郜  |  g  |  gao  |  gào  |
+|  黎  |  l  |  li  |  lí  |
+|  蓟  |  j  |  ji  |  jì  |
+|  薄  |  b  |  bo  |  bó,báo,bò  |
+|  印  |  y  |  yin  |  yìn  |
+|  宿  |  s  |  su  |  sù,xiŭ,xiù  |
+|  白  |  b  |  bai  |  bái  |
+|  怀  |  h  |  huai  |  huái  |
+|  蒲  |  p  |  pu  |  pú  |
+|  邰  |  t  |  tai  |  tái  |
+|  从  |  c  |  cong  |  cóng,cōng  |
+|  鄂  |  e  |  e  |  è  |
+|  索  |  s  |  suo  |  suŏ  |
+|  咸  |  x  |  xian  |  xián  |
+|  籍  |  j  |  ji  |  jí  |
+|  赖  |  l  |  lai  |  lài  |
+|  卓  |  z  |  zhuo  |  zhuó,zhuō  |
+|  蔺  |  l  |  lin  |  lìn  |
+|  屠  |  t  |  tu  |  tú  |
+|  蒙  |  m  |  meng  |  mĕng,méng,mēng  |
+|  池  |  c  |  chi  |  chí  |
+|  乔  |  q  |  qiao  |  qiáo  |
+|  阴  |  y  |  yin  |  yīn  |
+|  鬱  |  y  |  yu  |  yù  |
+|  胥  |  x  |  xu  |  xū  |
+|  能  |  n  |  neng  |  néng  |
+|  苍  |  c  |  cang  |  cāng  |
+|  双  |  s  |  shuang  |  shuāng  |
+|  闻  |  w  |  wen  |  wén  |
+|  莘  |  s  |  shen  |  xīn,shēn  |
+|  党  |  d  |  dang  |  dăng  |
+|  翟  |  z  |  zhai  |  zhái,dí  |
+|  谭  |  t  |  tan  |  tán  |
+|  贡  |  g  |  gong  |  gòng  |
+|  劳  |  l  |  lao  |  láo  |
+|  逄  |  p  |  pang  |  páng  |
+|  姬  |  j  |  ji  |  jī  |
+|  申  |  s  |  shen  |  shēn  |
+|  扶  |  f  |  fu  |  fú  |
+|  堵  |  d  |  du  |  dŭ  |
+|  冉  |  r  |  ran  |  răn  |
+|  宰  |  z  |  zai  |  zăi  |
+|  郦  |  l  |  li  |  lì  |
+|  雍  |  y  |  yong  |  yōng  |
+|  郤  |  x  |  xi  |  xì  |
+|  璩  |  q  |  qu  |  qú  |
+|  桑  |  s  |  sang  |  sāng  |
+|  桂  |  g  |  gui  |  guì  |
+|  濮  |  p  |  pu  |  pú  |
+|  牛  |  n  |  niu  |  niú  |
+|  寿  |  s  |  shou  |  shòu  |
+|  通  |  t  |  tong  |  tōng,tòng  |
+|  边  |  b  |  bian  |  biān,bian  |
+|  扈  |  h  |  hu  |  hù  |
+|  燕  |  y  |  yan  |  yàn,yān  |
+|  冀  |  j  |  ji  |  jì  |
+|  郏  |  j  |  jia  |  jiá  |
+|  浦  |  p  |  pu  |  pŭ  |
+|  尚  |  s  |  shang  |  shàng  |
+|  农  |  n  |  nong  |  nóng  |
+|  温  |  w  |  wen  |  wēn  |
+|  别  |  b  |  bie  |  bié,biè  |
+|  庄  |  z  |  zhuang  |  zhuāng  |
+|  晏  |  y  |  yan  |  yàn  |
+|  柴  |  c  |  chai  |  chái  |
+|  瞿  |  q  |  qu  |  jù,qú,qū  |
+|  阎  |  y  |  yan  |  yán  |
+|  充  |  c  |  chong  |  chōng  |
+|  慕  |  m  |  mu  |  mù  |
+|  连  |  l  |  lian  |  lián  |
+|  茹  |  r  |  ru  |  rú,rù  |
+|  习  |  x  |  xi  |  xí  |
+|  宦  |  h  |  huan  |  huàn  |
+|  艾  |  a  |  ai  |  ài,yì  |
+|  鱼  |  y  |  yu  |  yú  |
+|  容  |  r  |  rong  |  róng  |
+|  向  |  x  |  xiang  |  xiàng  |
+|  古  |  g  |  gu  |  gŭ  |
+|  易  |  y  |  yi  |  yì  |
+|  慎  |  s  |  shen  |  shèn  |
+|  戈  |  g  |  ge  |  gē  |
+|  廖  |  l  |  liao  |  liào  |
+|  庾  |  y  |  yu  |  yŭ  |
+|  终  |  z  |  zhong  |  zhōng  |
+|  暨  |  j  |  ji  |  jì  |
+|  居  |  j  |  ju  |  jū,jī  |
+|  衡  |  h  |  heng  |  héng  |
+|  步  |  b  |  bu  |  bù  |
+|  都  |  d  |  dou  |  dōu,dū  |
+|  耿  |  g  |  geng  |  gĕng  |
+|  满  |  m  |  man  |  măn  |
+|  弘  |  h  |  hong  |  hóng  |
+|  匡  |  k  |  kuang  |  kuāng  |
+|  国  |  g  |  guo  |  guó  |
+|  文  |  w  |  wen  |  wén,wèn  |
+|  寇  |  k  |  kou  |  kòu  |
+|  广  |  g  |  guang  |  guăng,ān  |
+|  禄  |  l  |  lu  |  lù  |
+|  阙  |  q  |  que  |  quē,què  |
+|  东  |  d  |  dong  |  dōng  |
+|  欧  |  o  |  ou  |  ōu  |
+|  殳  |  s  |  shu  |  shū  |
+|  沃  |  w  |  wo  |  wò  |
+|  利  |  l  |  li  |  lì  |
+|  蔚  |  y  |  yu  |  yù,wèi  |
+|  越  |  y  |  yue  |  yuè  |
+|  夔  |  k  |  kui  |  kuí  |
+|  隆  |  l  |  long  |  lóng,lōng  |
+|  师  |  s  |  shi  |  shī  |
+|  巩  |  g  |  gong  |  gŏng  |
+|  厍  |  s  |  she  |  shè  |
+|  聂  |  n  |  nie  |  niè  |
+|  晁  |  c  |  chao  |  cháo,zhāo,zhào  |
+|  勾  |  g  |  gou  |  gōu,gòu  |
+|  敖  |  a  |  ao  |  áo  |
+|  融  |  r  |  rong  |  róng  |
+|  冷  |  l  |  leng  |  lĕng  |
+|  訾  |  z  |  zi  |  zĭ,zī  |
+|  辛  |  x  |  xin  |  xīn  |
+|  阚  |  k  |  kan  |  kàn,hăn,kăn  |
+|  那  |  n  |  na  |  nèi,nà,nā,nă  |
+|  简  |  j  |  jian  |  jiăn  |
+|  饶  |  r  |  rao  |  ráo  |
+|  空  |  k  |  kong  |  kōng,kòng  |
+|  曾  |  z  |  zeng  |  céng,zēng  |
+|  毋  |  w  |  wu  |  wú  |
+|  沙  |  s  |  sha  |  shā,shà  |
+|  乜  |  n  |  nie  |  miē,niè  |
+|  养  |  y  |  yang  |  yăng  |
+|  鞠  |  j  |  ju  |  jū,jú  |
+|  须  |  x  |  xu  |  xū  |
+|  丰  |  f  |  feng  |  fēng  |
+|  巢  |  c  |  chao  |  cháo  |
+|  关  |  g  |  guan  |  guān  |
+|  蒯  |  k  |  kuai  |  kuăi  |
+|  相  |  x  |  xiang  |  xiāng,xiàng  |
+|  查  |  z  |  zha  |  chá,zhā  |
+|  后  |  h  |  hou  |  hòu  |
+|  荆  |  j  |  jing  |  jīng  |
+|  红  |  h  |  hong  |  hóng,gōng  |
+|  游  |  y  |  you  |  yóu  |
+|  竺  |  z  |  zhu  |  zhú  |
+|  权  |  q  |  quan  |  quán  |
+|  逯  |  l  |  lu  |  lù  |
+|  盖  |  g  |  gai  |  gài,gĕ  |
+|  益  |  y  |  yi  |  yì  |
+|  桓  |  h  |  huan  |  huán  |
+|  公  |  g  |  gong  |  gōng  |
+|  俟  |  q  |  qi  |  sì,qí  |
+|  上  |  s  |  shang  |  shàng,shăng  |
+|  官  |  g  |  guan  |  guān  |
+|  阳  |  y  |  yang  |  yáng  |
+|  人  |  r  |  ren  |  rén  |
+|  赫  |  h  |  he  |  hè  |
+|  皇  |  h  |  huang  |  huáng  |
+|  甫  |  f  |  fu  |  fŭ  |
+|  尉  |  w  |  wei  |  wèi,yù  |
+|  迟  |  c  |  chi  |  chí  |
+|  澹  |  d  |  dan  |  dàn,tán  |
+|  台  |  t  |  tai  |  tái,tāi  |
+|  冶  |  y  |  ye  |  yĕ  |
+|  政  |  z  |  zheng  |  zhèng  |
+|  淳  |  c  |  chun  |  chún  |
+|  太  |  t  |  tai  |  tài  |
+|  叔  |  s  |  shu  |  shū,shú  |
+|  轩  |  x  |  xuan  |  xuān  |
+|  辕  |  y  |  yuan  |  yuán  |
+|  令  |  l  |  ling  |  lìng,líng,lĭng  |
+|  狐  |  h  |  hu  |  hú  |
+|  离  |  l  |  li  |  lí  |
+|  宇  |  y  |  yu  |  yŭ  |
+|  长  |  z  |  zhang  |  zhăng,cháng  |
+|  鲜  |  x  |  xian  |  xiān,xiăn  |
+|  闾  |  l  |  lv  |  lǘ  |
+|  丘  |  q  |  qiu  |  qiū  |
+|  徒  |  t  |  tu  |  tú  |
+|  亓  |  q  |  qi  |  qí  |
+|  仉  |  z  |  zhang  |  zhăng  |
+|  督  |  d  |  du  |  dū  |
+|  子  |  z  |  zi  |  zi,zĭ,zí  |
+|  颛  |  z  |  zhuan  |  zhuān  |
+|  端  |  d  |  duan  |  duān  |
+|  木  |  m  |  mu  |  mù  |
+|  西  |  x  |  xi  |  xī  |
+|  漆  |  q  |  qi  |  qī,qù,xī  |
+|  雕  |  d  |  diao  |  diāo  |
+|  正  |  z  |  zheng  |  zhèng,zhēng  |
+|  壤  |  r  |  rang  |  răng  |
+|  驷  |  s  |  si  |  sì  |
+|  良  |  l  |  liang  |  liáng  |
+|  拓  |  t  |  tuo  |  tuò,tà  |
+|  跋  |  b  |  ba  |  bá  |
+|  夹  |  j  |  jia  |  jiā,jiá,gā  |
+|  父  |  f  |  fu  |  fù,fŭ  |
+|  穀  |  g  |  gu  |  gŭ  |
+|  晋  |  j  |  jin  |  jìn  |
+|  楚  |  c  |  chu  |  chŭ  |
+|  闫  |  y  |  yan  |  yán  |
+|  法  |  f  |  fa  |  fă  |
+|  汝  |  r  |  ru  |  rŭ  |
+|  鄢  |  y  |  yan  |  yān  |
+|  涂  |  t  |  tu  |  tú  |
+|  钦  |  q  |  qin  |  qīn  |
+|  百  |  b  |  bai  |  băi,bó  |
+|  里  |  l  |  li  |  lĭ,li  |
+|  南  |  n  |  nan  |  nán,nā  |
+|  门  |  m  |  men  |  mén  |
+|  呼  |  h  |  hu  |  hū  |
+|  延  |  y  |  yan  |  yán  |
+|  归  |  g  |  gui  |  guī  |
+|  海  |  h  |  hai  |  hăi  |
+|  舌  |  s  |  she  |  shé  |
+|  微  |  w  |  wei  |  wēi,wéi  |
+|  生  |  s  |  sheng  |  shēng  |
+|  岳  |  y  |  yue  |  yuè  |
+|  帅  |  s  |  shuai  |  shuài  |
+|  缑  |  g  |  gou  |  gōu  |
+|  亢  |  k  |  kang  |  kàng  |
+|  况  |  k  |  kuang  |  kuàng  |
+|  後  |  h  |  hou  |  hòu  |
+|  有  |  y  |  you  |  yŏu,yòu  |
+|  琴  |  q  |  qin  |  qín  |
+|  商  |  s  |  shang  |  shāng  |
+|  牟  |  m  |  mou  |  móu,mù  |
+|  佘  |  s  |  she  |  shé  |
+|  佴  |  n  |  nai  |  nài,èr  |
+|  伯  |  b  |  bo  |  bó,băi,bà  |
+|  赏  |  s  |  shang  |  shăng  |
+|  墨  |  m  |  mo  |  mò  |
+|  哈  |  h  |  ha  |  hā,hă,hà,kā  |
+|  谯  |  q  |  qiao  |  qiáo,qiào  |
+|  笪  |  d  |  da  |  dá  |
+|  年  |  n  |  nian  |  nián  |
+|  爱  |  a  |  ai  |  ài  |
+|  佟  |  t  |  tong  |  tóng  |
+|  第  |  d  |  di  |  dì  |
+|  五  |  w  |  wu  |  wŭ  |
+|  言  |  y  |  yan  |  yán  |
+|  福  |  f  |  fu  |  fú  |
