@@ -1,5 +1,13 @@
 # baijiaxing
 百家姓正确的拼音、姓名首字母
+
+
+```code
+System.out.println(PinyinUtils.nameFirstAlphabet("李世民"));  //output 'l'
+System.out.println(PinyinUtils.nameFirstAlphabet("查理斯"));  //output 'z'
+System.out.println(PinyinUtils.nameFirstAlphabet("单华雄"));  //output 's'
+```
+
 |  姓氏  |  首字母  |  正确拼音  |  全部拼音  |
 |  ----  |  ----  |  ----  |  ----  |
 |  赵  |  z  |  zhao  |  zhào  |
