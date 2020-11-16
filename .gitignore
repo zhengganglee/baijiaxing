@@ -45,4 +45,3 @@ docs/build
 
 
 #logback.xml
-/core/src/main/resources-dev/base_env.properties
